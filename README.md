@@ -22,7 +22,7 @@ To run the code for different dataset. 1. download the data from above link 2. s
 
 # Citation
 
-If you are interested in our work, please cite our paper as follows. In the same time, there is a similair work published in MICCAI2022 in the same time, thus, please also cite or refer to this work [MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation]([https://arxiv.org/pdf/2206.13737.pdf](https://arxiv.org/pdf/2206.01737.pdf)).
+If you are interested in our work, please cite our paper as follows. In the same time, there is a similar work published in MICCAI2022 in the same time, thus, please also cite or refer to this work [MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation]([https://arxiv.org/pdf/2206.13737.pdf](https://arxiv.org/pdf/2206.01737.pdf)).
 
 ```
 @InProceedings{10.1007/978-3-031-16449-1_64,
