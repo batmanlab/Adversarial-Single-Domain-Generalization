@@ -9,23 +9,20 @@ reproduce the experiments in our MICCAI2022 paper [Adversarial Consistency for S
 :-------------------------:|
 ![0.7](figures/model_v2-1.png)  |
 
-## Face Pose Transfer data can be downloaded [here](https://drive.google.com/file/d/1AUoRl0_suTIunTTJ5jor8poUmkoKfxMb/view?usp=sharing)
+## For training data please refer to [here]([https://drive.google.com/file/d/1AUoRl0_suTIunTTJ5jor8poUmkoKfxMb/view?usp=sharing](https://github.com/cherise215/MaxStyle))
 
 ## Experiments on real data
 
-To run the code on the face pose transfer data. 1. download the data from above link 2. unzip the data to the ./data folder 3. sh run_gcpert.sh
+To run the code for different dataset. 1. download the data from above link 2. sh run_abdominal.sh; sh run_cardiac.sh, run_prostate.sh.
 
 ## Qualitative Results
 | Comparison |
 :-------------------------:|
-![1.0](figure/qualitative.png)  |
-
-## Dynamic of Spatial Transformer T
-| Comparison |
-:-------------------------:|
-![1.0](figure/face_epoch.png)  |
+![1.0](figures/seg_vis_more-1.png)  |
 
 # Citation
+
+If you are interested in our work, please cite our paper as follows. In the same time, there is a similair work published in MICCAI2022 in the same time, thus, please also cite or refer to this work [MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation]([https://arxiv.org/pdf/2206.13737.pdf](https://arxiv.org/pdf/2206.01737.pdf)).
 
 ```
 @InProceedings{10.1007/978-3-031-16449-1_64,
