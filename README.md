@@ -5,9 +5,9 @@ This repository is by [Yanwu Xu](http://xuyanwu.github.io)
 and contains the [PyTorch](https://pytorch.org) source code to
 reproduce the experiments in our MICCAI2022 paper [Adversarial Consistency for Single Domain Generalization in Medical Image Segmentation](https://arxiv.org/pdf/2206.13737.pdf) by [Yanwu Xu](http://xuyanwu.github.io), Shaoan Xie, Maxwell Reynolds, Matthew Ragoza, Mingming Gong* and Kayhan Batmanghelich* (* Equal Contribution)
 
-| Purturbation Consistency | Spatial Alignment |
-:-------------------------:|:-------------------------:
-![0.5](figure/T_pert.png)  |  ![0.5](figure/T_align.png)
+| Model Structure |
+:-------------------------:|
+!(figure/model_v2.pdf)  |
 
 ## Face Pose Transfer data can be downloaded [here](https://drive.google.com/file/d/1AUoRl0_suTIunTTJ5jor8poUmkoKfxMb/view?usp=sharing)
 
