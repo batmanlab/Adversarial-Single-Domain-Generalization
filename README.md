@@ -7,7 +7,7 @@ reproduce the experiments in our MICCAI2022 paper [Adversarial Consistency for S
 
 | Model Structure |
 :-------------------------:|
-!(figure/model_v2.pdf)  |
+![1.0](figures/model_v2.pdf)  |
 
 ## Face Pose Transfer data can be downloaded [here](https://drive.google.com/file/d/1AUoRl0_suTIunTTJ5jor8poUmkoKfxMb/view?usp=sharing)
 
